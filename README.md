@@ -4,7 +4,7 @@ CSS Memory Cards is a simple flashcards application where users are able to crea
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/CSSMemCards/)
 
 ## Built Using
 
